@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./src/**/*.{js,ts,jsx,tsx}'],
+  content: ["./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       colors: {
@@ -8,13 +8,13 @@ module.exports = {
         // secondary: '#263238',
       },
       fontFamily: {
-        primary: ['Roboto', 'sans-serif'],
+        primary: ["Roboto", "sans-serif"],
       },
     },
     screens: {
-      xs: '360px',
-      sm: '480px',
+      xs: "360px",
+      sm: "480px",
     },
   },
   plugins: [],
-}
+};

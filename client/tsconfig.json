@@ -21,7 +21,7 @@
       "@views/*": ["src/views/*"],
       "@admin/*": ["src/views/admin/*"],
       "@landing/*": ["src/views/landing/*"],
-      "@config/*": ["src/config/*"],
+      "@config/*": ["src/config/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],

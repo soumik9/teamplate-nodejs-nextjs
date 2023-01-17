@@ -1,1 +1,1 @@
-export const facebookUrl = '';
+export const facebookUrl = "";
